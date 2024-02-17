@@ -1,8 +1,7 @@
 # TreeQN: A Fast and Interpretable XAI Technique for Simple Reinforcement Learning Challenges
 
     - Jeyakumar Sriram
-    - Diploma in Applied Artificial
-    - Intelligence and Analytics
+    - Diploma in Applied Artificial Intelligence and Analytics
     - School of Computing
     - Singapore Polytechnic
 
